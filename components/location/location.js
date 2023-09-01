@@ -61,14 +61,15 @@ const Location = ({ title }) => (
 			}
 
             .location-select h3{
-                margin-bottom: .5rem;
+                margin-bottom: .7rem;
+                font-size: 1rem;
             }
 
 			.location-select-dropdown {
 				display: flex;
 				align-items: center;
 				justify-content: flex-start;
-                gap: 1rem;
+                gap: 1.5rem;
 			}
 
             .location-select-dropdown p{
