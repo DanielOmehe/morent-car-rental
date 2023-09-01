@@ -6,7 +6,7 @@ const Locations = () => (
 	<>
 		<div className="locations">
 			<Location title='Pick-up' />
-			<Button color="#3563E9" width={"3.75rem"} height={"3.75rem"}>
+			<Button color="#3563E9" width={"3.75rem"} height={"3.75rem"} shadow={'rgba(0, 0, 123, .45)'}>
 				<img src="icons/flip.svg" alt="alternate" />
 			</Button>
 			<Location title='Drop-off' />

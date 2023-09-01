@@ -38,6 +38,7 @@ const Location = ({ title }) => (
 				background: #fff;
 				border-radius: 1rem;
 				padding: 1.25rem 1.5rem;
+                box-shadow: 0 0 1rem rgba(0, 0, 0, .05);
 			}
 
 			.location-title {
