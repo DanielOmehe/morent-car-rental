@@ -8,7 +8,7 @@ const PagesLayout = ({ children }) => (
         <Footer />
         <style jsx>{`
             .content{
-                padding: 2rem 4rem;
+                padding: 2rem 6rem;
             }
         `}</style>
 	</>

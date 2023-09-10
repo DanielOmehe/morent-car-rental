@@ -18,7 +18,7 @@ const NavBar =()=>(
         <style jsx>
         {`
             .navbar{
-                padding: 2rem 3.75rem;
+                padding: 2rem 6rem;
                 width: 100%;
                 border: 1px solid rgba(195, 212, 233, 0.40);
                 background: var(--primary-0, #FFF);
