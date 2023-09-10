@@ -36,7 +36,7 @@ const Location = ({ title }) => (
 				width: 36.375rem;
 				height: 8.5rem;
 				background: #fff;
-				border-radius: 1rem;
+				border-radius: .7rem;
 				padding: 1.25rem 1.5rem;
                 box-shadow: 0 0 1rem rgba(0, 0, 0, .05);
 			}

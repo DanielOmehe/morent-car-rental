@@ -13,7 +13,7 @@ const Banner =({ banner, title, subtitle, color, url, design })=>(
         <style jsx>{`
             .banner{
                 background: ${banner ? banner : '#5CAFFC'};
-                width: 44rem;
+                width: 42rem;
                 height: 22.5rem;
                 padding: 1.5rem;
                 border-radius: .62rem;
@@ -68,3 +68,4 @@ const Banner =({ banner, title, subtitle, color, url, design })=>(
 )
 
 export default Banner
+
